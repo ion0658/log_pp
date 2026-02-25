@@ -1,0 +1,5 @@
+add_subdirectory(comptime_filter)
+add_subdirectory(local_logger)
+add_subdirectory(simple_logger)
+add_subdirectory(target_filter)
+
